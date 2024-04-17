@@ -4,7 +4,7 @@ public class Ass1_3 {
     
     static void prime(int n, int i)
     {
-        if(n==1)
+        if (n==1)
             return ;
         if(n%i==0)
         {
